@@ -11,6 +11,7 @@ gem 'rails', '~> 5.0.1'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'stock_quote'
 
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.18'
